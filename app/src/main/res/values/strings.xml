@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThiAssignment</string>
+    <string name="notify_name">khong bo trong</string>
+    <string name="notify_do_dai">Khong duoc lon hon 5 ki tu</string>
+    <string name="notify_name_dodai">khong duoc nho hon 5 va lon hon 10</string>
+    <string name="notify_giatien">Gia tien phai lon hon 0</string>
+    <string name="notify_trung_mhau">ma mon an da ton tai</string>
+</resources>
